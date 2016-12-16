@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\bin\Debug\State_Pattern.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\bin\Debug\State_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\bin\Debug\State_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\obj\Debug\State_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\obj\Debug\State_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\State_Pattern\State_Pattern\obj\Debug\State_Pattern.pdb

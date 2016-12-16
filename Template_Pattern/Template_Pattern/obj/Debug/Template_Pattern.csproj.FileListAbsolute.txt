@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\bin\Debug\Template_Pattern.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\bin\Debug\Template_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\bin\Debug\Template_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\obj\Debug\Template_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\obj\Debug\Template_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Template_Pattern\Template_Pattern\obj\Debug\Template_Pattern.pdb
