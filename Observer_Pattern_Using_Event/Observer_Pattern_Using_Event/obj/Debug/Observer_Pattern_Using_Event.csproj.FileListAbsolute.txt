@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\bin\Debug\Observer_Pattern_Using_Event.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\bin\Debug\Observer_Pattern_Using_Event.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\bin\Debug\Observer_Pattern_Using_Event.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\obj\Debug\Observer_Pattern_Using_Event.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\obj\Debug\Observer_Pattern_Using_Event.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern_Using_Event\Observer_Pattern_Using_Event\obj\Debug\Observer_Pattern_Using_Event.pdb

@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\bin\Debug\Simple_Factory.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\bin\Debug\Simple_Factory.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\bin\Debug\Simple_Factory.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\obj\Debug\Simple_Factory.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\obj\Debug\Simple_Factory.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Simple_Factory\Simple_Factory\obj\Debug\Simple_Factory.pdb
