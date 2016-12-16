@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\bin\Debug\Iterator_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Iterator_Pattern\Iterator_Pattern\obj\Debug\Iterator_Pattern.pdb

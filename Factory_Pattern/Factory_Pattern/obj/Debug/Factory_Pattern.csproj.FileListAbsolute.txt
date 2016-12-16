@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\bin\Debug\Factory_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Factory_Pattern\Factory_Pattern\obj\Debug\Factory_Pattern.pdb

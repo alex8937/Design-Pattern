@@ -1,0 +1,6 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.exe.config
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\bin\Debug\Observer_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Observer_Pattern\Observer_Pattern\obj\Debug\Observer_Pattern.pdb
