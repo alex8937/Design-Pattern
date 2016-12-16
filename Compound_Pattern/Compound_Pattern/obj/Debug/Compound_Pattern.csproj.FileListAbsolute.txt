@@ -1,0 +1,5 @@
+C:\Users\Chen\Desktop\Design Pattern Study\Compound_Pattern\Compound_Pattern\bin\Debug\Compound_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Compound_Pattern\Compound_Pattern\bin\Debug\Compound_Pattern.pdb
+C:\Users\Chen\Desktop\Design Pattern Study\Compound_Pattern\Compound_Pattern\obj\Debug\Compound_Pattern.csprojResolveAssemblyReference.cache
+C:\Users\Chen\Desktop\Design Pattern Study\Compound_Pattern\Compound_Pattern\obj\Debug\Compound_Pattern.exe
+C:\Users\Chen\Desktop\Design Pattern Study\Compound_Pattern\Compound_Pattern\obj\Debug\Compound_Pattern.pdb
